@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title> prasant DK's first web site</title>
   </head>
  <body>
   <table>
