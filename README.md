@@ -63,8 +63,4 @@
         </td>
       </tr>
     </table>
-    <a href="new web page link/new web page link.html">In demand skills</a>
-  
-  
-    </body>
-    </html>
+      <a href="new web page link/new web page link.html">In demand skills</a></body></html>
