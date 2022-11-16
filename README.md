@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Prasanthdkin 
-Prasanthdkin
-/
-personal-website
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-More
-personal-website/img .html
-@Prasanthdkin
-Prasanthdkin add personal website files
-Latest commit 65eb326 1 hour ago
- History
- 1 contributor
-72 lines (69 sloc)  2.03 KB
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -91,7 +61,7 @@ Latest commit 65eb326 1 hour ago
               <td>Typing</td>
               <td>⭐⭐⭐</td>
             </tr>
-          </table> </table> 
+          </table>
         </td>
       </tr>
     </table>
@@ -100,18 +70,3 @@ Latest commit 65eb326 1 hour ago
   
     </body>
     </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Prasanthdkin/personal-websitepersonal-website/img .html at main · Prasanthdkin/personal-website
